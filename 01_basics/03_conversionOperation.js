@@ -21,8 +21,13 @@ let typehey=Boolean(hey)
 
 let anum="89t"
 let astring=String(anum)
-console.log(astring)
+//console.log(astring)
 //num to string is also possible
 let converted=Number(score)
+
+let a="87"
+let atos=Number(45)
+console.log(typeof atos)
+
 //console.log(typeof score)
 //console.log(converted)
