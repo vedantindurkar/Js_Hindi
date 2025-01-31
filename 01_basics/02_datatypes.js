@@ -8,5 +8,10 @@
  //null => standalone value means it is a value
  //undefined=> not defined doesnt have a value
 
- 
+ console.log(name)
+ console.log(age)
+ console.log(ismale)
+
+
+
  
