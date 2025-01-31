@@ -12,6 +12,8 @@
  console.log(age)
  console.log(ismale)
 
+ console.log("There are many types of datatypes in js and its very easy to use them...currently this is used to use the feature of the github in vs code")
+
 
 
  
