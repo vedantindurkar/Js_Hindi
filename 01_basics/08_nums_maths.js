@@ -40,5 +40,3 @@ const min=10
 let minn=30
 let maxx=120 
 console.log(Math.floor((Math.random()*(maxx-minn+1)))+minn)
-
-
