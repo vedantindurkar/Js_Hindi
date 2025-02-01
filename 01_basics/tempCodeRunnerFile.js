@@ -1,0 +1,7 @@
+console.log(Math)
+// console.log(Math.abs(-7))
+// console.log(Math.round(8.6))
+// console.log(Math.ceil(8.1))
+// console.log(Math.floor(8.9))
+// console.log(Math.min(2,5,8,4))
+// console.log(Math.max(2,5,8,4))

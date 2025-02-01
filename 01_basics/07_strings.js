@@ -24,3 +24,5 @@ console.log(string1.trim())
 
 //these string functions works on string only when its as primitive data type but they dont work when strings are declared in non-primitive fashion.
 
+let string2=new String("what's up Ranaji")
+console.log(string2)
