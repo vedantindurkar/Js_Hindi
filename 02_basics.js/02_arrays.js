@@ -20,7 +20,13 @@ console.log("before: ",another_array)
 const flat_array=another_array.flat(Infinity)//this flat function gives us a normal array of values without those array in array.
 console.log(flat_array)
 
-//of_funtion
+//from function
+
+const p=Array.from("vedant")//this is used to convert the normal string into an array form.
+const pp=Array.from("kfk454l")//this also converted to array
+//console.log(pp)
+
+//of_funtion 
 
 let score1=100
 let score2=200
